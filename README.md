@@ -1,4 +1,4 @@
-# DICEFEST 2026 ? Prediksi Energi Bangunan dengan Ensemble
+# DICEFEST 2026 | Prediksi Energi Bangunan dengan Ensemble
 
 ![Peringkat 17 dari 64](assets/leaderboard.png)
 
