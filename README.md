@@ -2,6 +2,9 @@
 
 ![Peringkat 17 dari 64](assets/leaderboard.png)
 ![nilai](assets/asetdicefest2.png)
+
+
+
 Pipeline V21 untuk memprediksi gas, listrik, EUI gas, rasio bangunan bersih, dan adopsi pemanas listrik pada kompetisi DICE FEST 2026.
 
 ## Hasil
